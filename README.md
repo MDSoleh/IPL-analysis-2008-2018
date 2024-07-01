@@ -29,11 +29,14 @@ Match Analysis:
 
 Pivot table showing the number of matches played by each team.
 Win/loss records for each team on the basis of post-toss decisions.
+![Screenshot 2024-07-02 003941](https://github.com/MDSoleh/IPL-analysis-2008-2018/assets/99492800/d2203f1e-5768-4e54-9477-1e6ecad94998)
+
 
 Venue Analysis:
 
 Matches played at each venue.
 Win/loss records at different venues.
+![Screenshot 2024-07-01 235648](https://github.com/MDSoleh/IPL-analysis-2008-2018/assets/99492800/7f4c2123-74e4-4296-b1d6-2aad1230e9a1)
 
 4.Data Visualization: 
 
@@ -42,6 +45,7 @@ Stacked column chart: winnings based on toss decisions.
 Donut chart: percentage of winnings.
 Bar stacked chart: Top venues with most winnings and matches.
 Tree map: Winners and their respective count of winninig titles.
+![Screenshot 2024-07-01 235637](https://github.com/MDSoleh/IPL-analysis-2008-2018/assets/99492800/e85db028-6fb0-41c2-9a10-ccad1df185e9)
 
 #### Team Performance Analysis:
 
@@ -52,7 +56,8 @@ Player Performance Analysis:
 
 Pivot table and chart showing the top 10 Player of match in the tournament.
 
-Match Outcome Analysis:
+Match ![Screenshot 2024-07-01 235707](https://github.com/MDSoleh/IPL-analysis-2008-2018/assets/99492800/b8491384-f78e-4692-9520-e68084e90e5e)
+Outcome Analysis:
 
 Pivot table summarizing match outcomes by venue.
 Chart showing win/loss records for different teams at various venues.
@@ -62,4 +67,5 @@ Chart showing win/loss records for different teams at various venues.
 Dashboard Creation:
 Created a summary dashboard with key insights, including charts, pivot tables, and key statistics.
 Using slicers we enable interactive filtering of data (e.g., by season, team, player).
+![Screenshot 2024-07-02 000336](https://github.com/MDSoleh/IPL-analysis-2008-2018/assets/99492800/92efb0ea-b040-4974-b472-4f9d361a17fb)
 
