@@ -29,7 +29,7 @@ Match Analysis:
 
 Pivot table showing the number of matches played by each team.
 Win/loss records for each team on the basis of post-toss decisions.
-![Screenshot 2024-07-02 003941](https://github.com/MDSoleh/IPL-analysis-2008-2018/assets/99492800/d2203f1e-5768-4e54-9477-1e6ecad94998)
+###  ![Screenshot 2024-07-02 003941](https://github.com/MDSoleh/IPL-analysis-2008-2018/assets/99492800/d2203f1e-5768-4e54-9477-1e6ecad94998)
 
 
 Venue Analysis:
